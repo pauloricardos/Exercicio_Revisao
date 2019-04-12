@@ -1,0 +1,17 @@
+.inner-wrapper {
+    align-items: center;
+    background: cornflowerblue;
+}
+
+.title {
+    margin-left: 20px;
+    color: white;
+}
+
+img {
+    width: 200px;
+}
+
+footer {
+    margin-top: 300px;
+}
